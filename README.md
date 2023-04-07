@@ -7,3 +7,6 @@ I am a 2nd year student of **Algorithmic Computer Science at Wroclaw University 
 I'm member of science club **KN-BreadboardComputing** that is developing an 8bit computer project. More details can be found here: [*KN BreadboardComputing*](https://github.com/KN-Breadboard-Computing).
 
 I am also developing the **MeetKunde** project, a system for solving geometry tasks. You can read about it here: [*MeetKunde*](https://github.com/MeetKunde).
+
+
+contact: *karoljanic97@gmail.com*
