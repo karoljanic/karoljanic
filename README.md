@@ -6,7 +6,7 @@ I am a 3nd year student of **Algorithmic Computer Science at Wroclaw University 
 
 I'm member of science club **KN Breadboard Computing** that is developing an 8bit computer project. More details can be found here: [*KN Breadboard Computing*](https://github.com/KN-Breadboard-Computing).
 
-I'm member of science club **KN Matematyki Przemysłowej**. More about it here: [*KNMPPWR*](https://github.com/KNMPPWR)
+I'm member of science club **KN Matematyki Przemysłowej**. More about it here: [*KNMPPWR*](https://github.com/KNMPPWR).
 
 I am also developing the **MeetKunde** project, a system for solving geometry tasks. You can read about it here: [*MeetKunde*](https://github.com/MeetKunde).
 
