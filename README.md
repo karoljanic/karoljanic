@@ -2,7 +2,9 @@
 
 I am a graduate of the **Academic High School of Wrocław University of Technology**. During this time I have developed several projects, which are available [here](https://github.com/karoljanic/projects-high-school).
 
-I am in the last semester of **Algorithmic Computer Science at Wroclaw University of Technology**. The projects I create at university can be found [here](https://github.com/karoljanic/projects-studies).
+I graduated with a Bachelor's degree **Algorithmic Computer Science at Wroclaw University of Technology**. 
+I am currently pursuing a Master's degree in the same field at the same university.
+The projects I create at university can be found [here](https://github.com/karoljanic/projects-studies).
 
 I'm member of science club **KN Breadboard Computing** that is developing an 8bit computer project. More details can be found here: [*KN Breadboard Computing*](https://github.com/KN-Breadboard-Computing).
 
